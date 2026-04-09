@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.wallofportfolios.in)",
+      "WebSearch",
+      "Bash(npx next build)",
+      "WebFetch(domain:www.lenis.dev)"
+    ]
+  }
+}
